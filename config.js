@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://collection.cloudinary.com/dtflbu34m/75603bf1e61bb9a826648c666a6da7ff", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dtflbu34m/video/upload/v1769575053/Breakbot_-_Baby_I_m_Yours_feat._Irfane_Official_Video_zyimva.mp3?_s=public-apps", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
